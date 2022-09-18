@@ -49,7 +49,8 @@ PATH:$PATH:~/script
 
 ## Exercice 2. Controle de mot de passe
 
-\*#!/bin/bash
+\*
+#!/bin/bash
 
 mdp = "nordine"
 
@@ -59,7 +60,8 @@ if [ _$input == _$mdp ]; then
     echo "bon mdp"
 else 
     echo "mauvais mdp"
-fi\*
+fi
+\*
 
 ## Exercice 3. Expressions rationnelles
 
