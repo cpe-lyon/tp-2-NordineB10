@@ -1,6 +1,6 @@
 Bouskine Nordine 
 
-##Exercice 1. Variables d'environnement
+## Exercice 1. Variables d'environnement
 
 1 - Variable PATH : trouver les commandes tapées par l'utilisateur
 printenv PATH
@@ -47,7 +47,7 @@ nano ~/.bashrc
 PATH:$PATH:~/script
 
 
-##Exercice 2. Controle de mot de passe
+## Exercice 2. Controle de mot de passe
 
 #!/bin/bash
 
@@ -61,7 +61,7 @@ else
     echo "mauvais mdp"
 fi
 
-##Exercice 3. Expressions rationnelles
+## Exercice 3. Expressions rationnelles
 
 #!/bin/bash
 
