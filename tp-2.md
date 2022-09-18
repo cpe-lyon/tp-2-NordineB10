@@ -49,7 +49,7 @@ PATH:$PATH:~/script
 
 ## Exercice 2. Controle de mot de passe
 
-#!/bin/bash
+>#!/bin/bash
 
 mdp = "nordine"
 
